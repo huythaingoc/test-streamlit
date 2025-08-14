@@ -5,3 +5,5 @@ python-dotenv
 pinecone
 gtts
 langchain
+langchain-community
+langchain-openai
