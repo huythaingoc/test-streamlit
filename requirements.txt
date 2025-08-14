@@ -1,0 +1,7 @@
+streamlit
+requests
+openai
+python-dotenv
+pinecone-client
+gtts
+langchain
